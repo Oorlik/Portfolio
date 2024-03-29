@@ -47,6 +47,9 @@ h3.heading {font-size: 28px;font-weight: 500}
   font-weight: bold;
   margin-right: 20px;
 }
+.panel p span:last-child{
+  font-size: 20px;
+}
 .panel p b{
   font-weight: normal;
   float: right;
